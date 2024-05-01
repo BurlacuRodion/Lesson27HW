@@ -1,0 +1,4 @@
+List de exercitii de recapitulare:   git repo: https://github.com/Iulik1989/lesson27jsonplaceholder: https://jsonplaceholder.typicode.com/
+creati o aplicatie care va lua de pe jsonplaceholder lista cu users si totdos, 
+creati o lista cu utilizatori, fiecare utilizator trebuia sa aiba lista sa de todo, 
+in drept cu tidlu la todo daca e done trebuie sa fie o iconita check si scrisu taiat, iconita la alegere
